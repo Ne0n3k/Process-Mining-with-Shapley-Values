@@ -24,9 +24,6 @@ scikit-learn>=1.0.0
 # For handling XES files (process mining logs)
 pm4py[all]>=2.3.0
 
-# Optional: For better performance
-numba>=0.56.0
-
 # Optional: For additional visualization capabilities
 plotly>=5.0.0
 
