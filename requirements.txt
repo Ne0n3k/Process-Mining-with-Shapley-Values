@@ -1,1 +1,33 @@
+# Data science and analysis libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Process mining library
+pm4py>=2.3.0
+
+# Graph visualization
+graphviz>=0.20.0
+
+# Jupyter notebook support
+ipython>=7.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional dependencies that might be needed for pm4py
+lxml>=4.6.0
+networkx>=2.6.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# For handling XES files (process mining logs)
+pm4py[all]>=2.3.0
+
+# Optional: For better performance
+numba>=0.56.0
+
+# Optional: For additional visualization capabilities
+plotly>=5.0.0
+
 # Hospital billing dataset can be found at; https://data.4tu.nl/articles/dataset/Hospital_Billing_-_Event_Log/12705113/1
