@@ -1,0 +1,63 @@
+{
+  "log": "bpi_2012",
+  "noise": 0.5,
+  "property": "safety",
+  "players": 17,
+  "mc_meta": {
+    "n_perm": 1000,
+    "property_type": "safety",
+    "avg_value": 0.0,
+    "players": 17,
+    "seconds": 61.46432399749756,
+    "cache_entries": 10678
+  },
+  "rs_meta": {
+    "n_samples": 2000,
+    "property_type": "safety",
+    "avg_value": 0.0,
+    "players": 17,
+    "keep_frac_range": [
+      0.5,
+      0.8
+    ],
+    "seconds": 9.296092987060547
+  },
+  "phi_mc": {
+    "Seq3@1": 0.0,
+    "Seq3@2": 0.0,
+    "Seq2@3": 0.0,
+    "Seq2@4": 0.0,
+    "Seq2@5": 0.0,
+    "Seq2@6": 0.0,
+    "Seq2@7": 0.0,
+    "Seq2@8": 0.0,
+    "Seq2@9": 0.0,
+    "Seq2@10": 0.0,
+    "Seq3@11": 0.0,
+    "Seq2@12": 0.0,
+    "Seq3@13": 0.0,
+    "Seq2@14": 0.0,
+    "Seq2@15": 0.0,
+    "Seq5@16": 0.0,
+    "Seq2@17": 0.0
+  },
+  "influence_rs": {
+    "Seq3@1": 0.0,
+    "Seq3@2": 0.0,
+    "Seq2@3": 0.0,
+    "Seq2@4": 0.0,
+    "Seq2@5": 0.0,
+    "Seq2@6": 0.0,
+    "Seq2@7": 0.0,
+    "Seq2@8": 0.0,
+    "Seq2@9": 0.0,
+    "Seq2@10": 0.0,
+    "Seq3@11": 0.0,
+    "Seq2@12": 0.0,
+    "Seq3@13": 0.0,
+    "Seq2@14": 0.0,
+    "Seq2@15": 0.0,
+    "Seq5@16": 0.0,
+    "Seq2@17": 0.0
+  }
+}
